@@ -1,0 +1,2 @@
+# random_walk
+This repo contain a small project I did for my thermodynamics class at Oklahoma State University from Fall 2011. The script just populates a 2D periodically identified grid with 'particles,' allows these particles to each execute an independent random walk, and computes the course grained entropy at given time steps. For now I am including the original files, but at a later date I may refactor and expand this project.
